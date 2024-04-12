@@ -15,7 +15,7 @@ I took care of all the coding aspect, from creating tools to Chris, to the gamep
 
 ---
 [Yippy Solitaire]()
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/yip.png?raw=true"/>
 I worked on an unshipped game called Yippy Solitaire, this game features a Solitaire type of  gameplay paired with some animal collection.
 I took care of all the coding aspect.
 
