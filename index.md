@@ -29,11 +29,11 @@ I took care of all the coding aspect.
 Talking about Everhood and the general process I took with Chris (the artist).
 
 - Devlogs regarding code (2018 - 2021) <br>
-[Everhood game localization - How?](https://everhood.itch.io/everhood/devlog/64982/game-localization/)
-[2D Water mask effect mini tutorial](https://everhood.itch.io/everhood/devlog/90416/summer-time/)
-[Everhood code architecture thoughts](https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/)
-[Everhood is getting bigger and bigger. Tips to handle big projects](https://everhood.itch.io/everhood/devlog/77284/everhood-is-getting-bigger-and-bigger-tips-to-handle-big-projects/)
-[ Lets create 2D lasers in unity !](https://everhood.itch.io/everhood/devlog/68662/how-is-everhood-going-lets-create-2d-lasers-in-unity-/)
+[Everhood game localization - How?](https://everhood.itch.io/everhood/devlog/64982/game-localization/) <br>
+[2D Water mask effect mini tutorial](https://everhood.itch.io/everhood/devlog/90416/summer-time/) <br>
+[Everhood code architecture thoughts](https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/) <br>
+[Everhood is getting bigger and bigger. Tips to handle big projects](https://everhood.itch.io/everhood/devlog/77284/everhood-is-getting-bigger-and-bigger-tips-to-handle-big-projects/) <br>
+[ Lets create 2D lasers in unity !](https://everhood.itch.io/everhood/devlog/68662/how-is-everhood-going-lets-create-2d-lasers-in-unity-/) <br>
 [Extension methods, lets extend Gameobject() class](https://everhood.itch.io/everhood/devlog/61401/debuglogmerry-christmas/)
 
 - Merge 3 (2018)
