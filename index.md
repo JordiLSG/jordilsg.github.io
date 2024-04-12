@@ -24,11 +24,11 @@ I took care of all the coding aspect.
 
 ### Personal Work / Misc
 
-- Post moterm talk on Everhood(2021)
+- Post moterm talk on Everhood(2021) <br>
 <img src="images/image2.jpg?raw=true"/>
 Talking about Everhood and the general process I took with Chris (the artist).
 
-- Devlogs regarding code (2018 - 2021)
+- Devlogs regarding code (2018 - 2021) <br>
 [Everhood game localization - How?](https://everhood.itch.io/everhood/devlog/64982/game-localization/)
 [2D Water mask effect mini tutorial](https://everhood.itch.io/everhood/devlog/90416/summer-time/)
 [Everhood code architecture thoughts](https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/)
