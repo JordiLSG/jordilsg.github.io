@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Everhood 2](https://store.steampowered.com/app/1984020/Everhood_2))
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/capsule_616x353 (1).jpg?raw=true"/>
 Everhood 2 in creation, by my colleague Chris Nordgren (Artist) and me.
 I take care of all the coding aspect, from creating tools to Chris, to the gameplay, switch porting and modding support along with steam workshop integration.
 
