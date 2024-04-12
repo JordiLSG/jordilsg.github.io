@@ -14,7 +14,7 @@ Everhood made by my colleague Chris Nordgren (Artist) and me.
 I took care of all the coding aspect, from creating tools to Chris, to the gameplay, switch porting and modding support.
 
 ---
-[Yippy Solitaire]()
+[Yippy Solitaire]
 <img src="images/yip.png?raw=true"/>
 I worked on an unshipped game called Yippy Solitaire, this game features a Solitaire type of  gameplay paired with some animal collection.
 I took care of all the coding aspect.
@@ -22,14 +22,45 @@ I took care of all the coding aspect.
 
 
 
-### Personal Work
+### Personal Work / Misc
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Post moterm talk on Everhood(2021)]
+<img src="images/image2.png?raw=true"/>
+Talking about Everhood and the general process I took with Chris (the artist).
 
+- [Merge 3 (2018)]
+<img src="images/image7.gif?raw=true"/>
+A mobile game prototype. I took care of the code and visual effects, the assets were taken from the web.
+
+- [Cards 1 (2018)]
+<img src="images/image4.gif?raw=true"/>
+A mobile game prototype. I took care of the code and visual effects, most of the assets were taken from the web.
+
+- [Mobile moving mechanics (2018)]
+<img src="images/image9.gif?raw=true"/>
+A mobile game prototype that focus on dragging touches and one input mechanics for the player movement.
+
+- [Smash n' Rush (2017)]
+<img src="images/image3.gif?raw=true"/>
+A mobile game prototype. I took care of the code and art. 
+
+- [Arch viz (2017)]
+<img src="images/image5.gif?raw=true"/>
+Worked with a colleague on a 3D interactable architectural visualization. I took care of all the code and lighting.
+
+- [Misc assets (2016)]
+<img src="images/image10-png?raw=true"/>
+Some assets made in Magica Voxel.
+
+- [Smashy Space (2016)]
+<img src="images/image1.gif?raw=true"/>
+A mobile game prototype. I took care of the code and art.
+
+- [Smashy Space (2015)]
+<img src="images/image11.gif?raw=true"/>
+A mobile game prototype. I took care of the code, the assets were taken from the web.
+
+ 
 ---
 
 
