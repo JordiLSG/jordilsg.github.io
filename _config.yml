@@ -6,8 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   Worked on a mobile game Yippy Solitaire that features a Solitaire Tripeaks Gameplay.
   I'm now working on my free time on Everhood 2, where I aim to continue refining my skills in Unity programming to create an enjoyable experience for players. 
   <br><br>
-  Second description 
-  <br><br>
   <a href="https://twitter.com/Jordi_TheRock">Twitter @Jordi_TheRock</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
