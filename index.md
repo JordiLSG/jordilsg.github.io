@@ -29,12 +29,12 @@ I took care of all the coding aspect.
 Talking about Everhood and the general process I took with Chris (the artist).
 
 - Devlogs regarding code (2018 - 2021)
-[https://everhood.itch.io/everhood/devlog/64982/game-localization/](https://everhood.itch.io/everhood/devlog/64982/game-localization/)
-[https://everhood.itch.io/everhood/devlog/90416/summer-time/](https://everhood.itch.io/everhood/devlog/90416/summer-time/)
-[https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/](https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/)
-[https://everhood.itch.io/everhood/devlog/77284/everhood-is-getting-bigger-and-bigger-tips-to-handle-big-projects/](https://everhood.itch.io/everhood/devlog/77284/everhood-is-getting-bigger-and-bigger-tips-to-handle-big-projects/)
-[https://everhood.itch.io/everhood/devlog/68662/how-is-everhood-going-lets-create-2d-lasers-in-unity-/](https://everhood.itch.io/everhood/devlog/68662/how-is-everhood-going-lets-create-2d-lasers-in-unity-/)
-[https://everhood.itch.io/everhood/devlog/61401/debuglogmerry-christmas/](https://everhood.itch.io/everhood/devlog/61401/debuglogmerry-christmas/)
+[Everhood game localization - How?](https://everhood.itch.io/everhood/devlog/64982/game-localization/)
+[2D Water mask effect mini tutorial](https://everhood.itch.io/everhood/devlog/90416/summer-time/)
+[Everhood code architecture thoughts](https://everhood.itch.io/everhood/devlog/81598/everhood-code-architecture-thoughts/)
+[Everhood is getting bigger and bigger. Tips to handle big projects](https://everhood.itch.io/everhood/devlog/77284/everhood-is-getting-bigger-and-bigger-tips-to-handle-big-projects/)
+[ Lets create 2D lasers in unity !](https://everhood.itch.io/everhood/devlog/68662/how-is-everhood-going-lets-create-2d-lasers-in-unity-/)
+[Extension methods, lets extend Gameobject() class](https://everhood.itch.io/everhood/devlog/61401/debuglogmerry-christmas/)
 
 - Merge 3 (2018)
 <img src="images/image7.gif?raw=true"/> <br>
@@ -57,14 +57,14 @@ A mobile game prototype. I took care of the code and art.
 Worked with a colleague on a 3D interactable architectural visualization. I took care of all the code and lighting.
 
 - Misc assets (2016)
-<img src="images/image10-png?raw=true"/> <br>
+<img src="images/image10.png?raw=true"/> <br>
 Some assets made in Magica Voxel.
 
 - Smashy Space (2016)
 <img src="images/image1.gif?raw=true"/> <br>
 A mobile game prototype. I took care of the code and art.
 
-- Smashy Space (2015)
+- Iron Soldiers (2015)
 <img src="images/image11.gif?raw=true"/> <br>
 A mobile game prototype. I took care of the code, the assets were taken from the web.
 
