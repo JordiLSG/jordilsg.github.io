@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I'm now working on my free time on Everhood 2, where I aim to continue refining my skills in Unity programming to create an enjoyable experience for players. 
   <br><br>
   <a href="https://twitter.com/Jordi_TheRock">Twitter @Jordi_TheRock</a> 
-  <a href="oriondark69@gmail.com">oriondark69@gmail.com</a> 
+  contact: oriondark69@gmail.com
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
