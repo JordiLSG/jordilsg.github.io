@@ -9,7 +9,7 @@ I take care of all the coding aspect, from creating tools to Chris, to the gamep
 
 ---
 [Everhood](https://store.steampowered.com/app/1229380/Everhood/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/capsule_616x353 (1).jpg?raw=true"/>
 Everhood made by my colleague Chris Nordgren (Artist) and me.
 I took care of all the coding aspect, from creating tools to Chris, to the gameplay, switch porting and modding support.
 
