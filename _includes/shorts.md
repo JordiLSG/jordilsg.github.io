@@ -1,5 +1,3 @@
-## Shorts
-
 Short-form marketing clips for our games: TikTok, YouTube Shorts and Instagram Reels, cut from raw gameplay.
 
 [TikTok @everhoodthegame](https://www.tiktok.com/@everhoodthegame)
