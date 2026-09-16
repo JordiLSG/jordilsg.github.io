@@ -16,6 +16,22 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+   <style>
+      /* Three-column layout: header (left) | projects (center) | shorts (right) */
+      @media screen and (min-width: 1200px) {
+         .wrapper { width: 1160px; }
+         section { float: left; margin-left: 320px; width: 500px; }
+         aside.shorts { float: right; width: 300px; padding-bottom: 50px; }
+      }
+      @media screen and (min-width: 961px) and (max-width: 1199px) {
+         /* Not enough room for three columns: shorts stack under the projects */
+         aside.shorts { float: right; clear: right; width: 500px; padding-bottom: 50px; }
+      }
+      @media print, screen and (max-width: 960px) {
+         aside.shorts { float: none; width: auto; border-bottom: 1px solid #e5e5e5; padding: 0 0 20px; margin: 0 0 20px; }
+      }
+      aside.shorts img, aside.shorts iframe { max-width: 100%; }
+   </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
@@ -40,6 +56,10 @@
       <section>
          {{ content }}
       </section>
+      <aside class="shorts">
+         {% capture shorts %}{% include shorts.md %}{% endcapture %}
+         {{ shorts | markdownify }}
+      </aside>
       <footer>
          {% if site.github.is_project_page %}
          <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
