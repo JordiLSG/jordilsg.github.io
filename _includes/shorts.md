@@ -6,13 +6,13 @@ Short-form marketing clips for our games: TikTok, YouTube Shorts and Instagram R
 
 ---
 
-**Everhood 2 – Zoddronite**
+**Everhood 2 – Zoddronite** · 45k views in 2 days
 
 <video controls muted playsinline preload="metadata" poster="videos/everhood2-zoddronite.jpg" width="280" style="max-width:100%;border-radius:6px">
   <source src="videos/everhood2-zoddronite.mp4" type="video/mp4">
 </video>
 
-45k views in 2 days · [Watch on TikTok](https://www.tiktok.com/@everhoodthegame/video/7685042297469226262)
+[Watch on TikTok](https://www.tiktok.com/@everhoodthegame/video/7685042297469226262)
 
 ---
 
