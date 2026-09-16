@@ -1,6 +1,6 @@
 ## Professional Projects
 
-[Everhood Hunters](https://store.steampowered.com/app/1984020/Everhood_2](https://store.steampowered.com/app/3906360/Everhood_Hunters/))
+[Everhood Hunters](https://store.steampowered.com/app/3906360/Everhood_Hunters/)
 <img src="images/maxresdefault.jpg?raw=true"/>
 Everhood Hunters (in development, coming 2027) made by my colleague Chris Nordgren (Artist) and me. I take care of all the coding aspect: gameplay, tools for Chris, online co-op, Switch porting and Steam integration.
 
