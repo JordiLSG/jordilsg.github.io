@@ -4,10 +4,17 @@ Short-form marketing clips for our games: TikTok, YouTube Shorts and Instagram R
 
 [TikTok @everhoodthegame](https://www.tiktok.com/@everhoodthegame)
 
+---
+
+**Everhood 2 – Zoddronite**
+
+<video controls muted playsinline preload="metadata" poster="videos/everhood2-zoddronite.jpg" width="280" style="max-width:100%;border-radius:6px">
+  <source src="videos/everhood2-zoddronite.mp4" type="video/mp4">
+</video>
+
+45k views in 2 days · [Watch on TikTok](https://www.tiktok.com/@everhoodthegame/video/7685042297469226262)
+
 <!--
-To embed a YouTube Short, paste its video ID below (the part after "shorts/" in the URL):
-
-<iframe width="280" height="498" src="https://www.youtube.com/embed/VIDEO_ID" title="Short" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-To embed a TikTok, paste the embed code from the TikTok "Embed" button.
+To add another clip, copy the block above: put the mp4 and a poster jpg in the videos/ folder,
+then update the paths, the title, the view count and the TikTok link.
 -->
